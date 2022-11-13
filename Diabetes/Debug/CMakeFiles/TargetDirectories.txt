@@ -1,0 +1,7 @@
+/home/danielvelasquez/Documentos/HPC_1_2022/Parcial3Diabetes/Diabetes/Debug/CMakeFiles/Diabetes.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/Parcial3Diabetes/Diabetes/Debug/CMakeFiles/edit_cache.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/Parcial3Diabetes/Diabetes/Debug/CMakeFiles/rebuild_cache.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/Parcial3Diabetes/Diabetes/Debug/CMakeFiles/list_install_components.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/Parcial3Diabetes/Diabetes/Debug/CMakeFiles/install.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/Parcial3Diabetes/Diabetes/Debug/CMakeFiles/install/local.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/Parcial3Diabetes/Diabetes/Debug/CMakeFiles/install/strip.dir
